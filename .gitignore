@@ -23,3 +23,8 @@ Cargo.lock
 # Temporary files
 *.tmp
 *.bak
+
+# GSD for Antigravity
+*.agent
+*gemini
+*gsd
